@@ -1,9 +1,9 @@
 TITLE Program Template     (template.asm)
 
-; Author: 
-; Last Modified:
-; OSU email address: ONID_ID@oregonstate.edu
-; Course number/section:   CS271 Section ???
+; Author: Jeff "Gent" Stone
+; Last Modified: January 9, 2022
+; OSU email address: stonjeff@oregonstate.edu
+; Course number/section:   CS271 Section 400
 ; Project Number:                 Due Date:
 ; Description: This file is provided as a template from which you may work
 ;              when developing assembly projects in CS271.
